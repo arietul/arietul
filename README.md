@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arietul
-- 👀 I’m interested in machine learning of sequential data
+- 👀 I’m interested in sequential data machine learning
 - 🌱 I’m currently learning the basics
 
